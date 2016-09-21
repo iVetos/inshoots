@@ -1,0 +1,2 @@
+[100] - Product edit - (id:13) [Admin] - 127.0.0.1 - [23/Apr/2015 11:42:04 +03:00] U:\home\alex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+[100] - Product edit - (id:15) [Admin] - 127.0.0.1 - [23/Apr/2015 11:42:31 +03:00] U:\home\alex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36

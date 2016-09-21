@@ -1,0 +1,1 @@
+[100] - Успешный вход [Admin] - 127.0.0.1 - [19/Jul/2016 15:31:02 +03:00] E:\OpenServer\domains\newalex.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36

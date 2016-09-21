@@ -1,0 +1,2 @@
+[100] - Adding product - (id:27) [Admin] - 127.0.0.1 - [28/Jun/2015 09:02:30 +03:00] U:\home\alex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+[100] - Adding product - (id:28) [Admin] - 127.0.0.1 - [28/Jun/2015 09:02:52 +03:00] U:\home\alex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36

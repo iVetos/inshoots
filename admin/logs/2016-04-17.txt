@@ -1,0 +1,2 @@
+[100] - Adding product - (id:46) [Admin] - 127.0.0.1 - [17/Apr/2016 14:47:47 +03:00] E:\OpenServer\domains\newalex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+[100] - Product edit - (id:46) [Admin] - 127.0.0.1 - [17/Apr/2016 14:48:49 +03:00] E:\OpenServer\domains\newalex.up\www\admin\includes\catalog.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
